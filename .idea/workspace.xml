@@ -20,11 +20,17 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/bin/php" />
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="2f5U9bgsABrf0Iyb7anbezdsN2h" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -80,6 +86,7 @@
       <workItem from="1713103338054" duration="698000" />
       <workItem from="1713104051221" duration="7520000" />
       <workItem from="1713111690125" duration="147000" />
+      <workItem from="1713187472046" duration="6732000" />
     </task>
     <servers />
   </component>
